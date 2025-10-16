@@ -17,3 +17,4 @@ Conventional Commits을 따릅니다 (`feat: add gravity toggle`). 제목 줄은
 
 ## 설정 및 에셋
 절대 비밀 정보를 커밋하지 마세요. 환경 키는 `.env`에 배치하고 `.env.example`에 문서화합니다. 체크인 전에 텍스처와 오디오를 최적화하고, 소스 에셋은 무손실 형식을 선호합니다. 대용량 바이너리는 `assets/raw/`에 넣고 내보내기 준비된 버전은 `assets/processed/`에 저장합니다.
+
